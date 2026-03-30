@@ -23,29 +23,29 @@ digital-literacy-project/
 │   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   ├── infographic_ss.png  
-│   └── brief_description.md  
+│   ├── brief_description.md  
+│   └── infography_ss.png  
 │  
 ├── task-2-portfolio/  
-│   ├── GitHub_ss.png  
-│   ├── LinkedIn_ss.png  
-│   ├── ResearchGate_ss.png  
+│   ├── github_ss.png  
+│   ├── kaggle_ss.png  
+│   ├── linkedln_ss.png  
 │   └── reflection_notes.md  
 │  
 ├── task-3-platforms/  
-│   ├── google-form.png  
-│   ├── Hackerrank_ss.png  
-│   ├── Google Form and Responses Link.md  
-│   └── notes.md  
+│   ├── google_form_ss.png  
+│   ├── hacker_rank_ss.png  
+│   ├── notes.md  
+│   └── responses_for_google_form_ss.png  
 │  
 ├── task-4-email-etiquette/  
-│   ├── email1.pdf  
-│   ├── email2.pdf  
+│   ├── extension_request.pdf 
+│   ├── internship_enquiry.pdf  
 │   └── social-media-checklist.md  
 │  
 ├── task-5-cybercrime/    
 |     └── casestudy.md  
-|     └── prevention-checklist.md    
+|     └── prevention_checklist.md    
 
     
 
