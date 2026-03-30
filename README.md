@@ -39,7 +39,7 @@ digital-literacy-project/
 │   └── responses_for_google_form_ss.png  
 │  
 ├── task-4-email-etiquette/  
-│   ├── extension_request.pdf 
+│   ├── extension_request.pdf  
 │   ├── internship_enquiry.pdf  
 │   └── social-media-checklist.md  
 │  
