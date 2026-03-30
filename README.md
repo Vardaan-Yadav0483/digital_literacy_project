@@ -54,7 +54,7 @@ This repository includes all five project tasks: infographic, digital portfolio 
 
 ## 🔗 Important Links  
 - **Google Form (Task 3):** https://docs.google.com/forms/d/e/1FAIpQLScE4dz-pqsOSdnUabN8LG2JhivZpKcwgpdgHIVhOwR1kGicpA/viewform?usp=publish-editor
-- **GitHub Profile README:** 
+- **GitHub Profile README:** https://github.com/Vardaan-Yadav0483 
 - **LinkedIn Profile:** www.linkedin.com/in/vardaan-yadav-51b5b93ba
 
 ## 📑 Project Report  
