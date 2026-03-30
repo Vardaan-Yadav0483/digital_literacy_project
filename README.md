@@ -58,8 +58,8 @@ This repository includes all five project tasks: infographic, digital portfolio 
 - **LinkedIn Profile:** www.linkedin.com/in/vardaan-yadav-51b5b93ba
 
 ## 📑 Project Report  
-The complete written documentation, including my detailed reflections and observations for all five tasks, is available here:
-[./report/Project_Report.pdf](./report/Project_Report.pdf)
+The complete written documentation, including my detailed reflections and observations for all five tasks, is available in the Project_Report here:
+[./report/](./report/)
 
 ## 🛠️ Tools & References  
 **Design:** Canva www.canva.com  
